@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\EmployeeWageComputationNameSpace\EmployeeWageComputationNameSpace\bin\Debug\net6.0\EmployeeWageComputationNameSpace.exe
+C:\Users\lenovo\source\repos\EmployeeWageComputationNameSpace\EmployeeWageComputationNameSpace\bin\Debug\net6.0\EmployeeWageComputationNameSpace.deps.json
+C:\Users\lenovo\source\repos\EmployeeWageComputationNameSpace\EmployeeWageComputationNameSpace\bin\Debug\net6.0\EmployeeWageComputationNameSpace.runtimeconfig.json
+C:\Users\lenovo\source\repos\EmployeeWageComputationNameSpace\EmployeeWageComputationNameSpace\bin\Debug\net6.0\EmployeeWageComputationNameSpace.dll
+C:\Users\lenovo\source\repos\EmployeeWageComputationNameSpace\EmployeeWageComputationNameSpace\bin\Debug\net6.0\EmployeeWageComputationNameSpace.pdb
+C:\Users\lenovo\source\repos\EmployeeWageComputationNameSpace\EmployeeWageComputationNameSpace\obj\Debug\net6.0\EmployeeWageComputationNameSpace.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\EmployeeWageComputationNameSpace\EmployeeWageComputationNameSpace\obj\Debug\net6.0\EmployeeWageComputationNameSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\EmployeeWageComputationNameSpace\EmployeeWageComputationNameSpace\obj\Debug\net6.0\EmployeeWageComputationNameSpace.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\EmployeeWageComputationNameSpace\EmployeeWageComputationNameSpace\obj\Debug\net6.0\EmployeeWageComputationNameSpace.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\EmployeeWageComputationNameSpace\EmployeeWageComputationNameSpace\obj\Debug\net6.0\EmployeeWageComputationNameSpace.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\EmployeeWageComputationNameSpace\EmployeeWageComputationNameSpace\obj\Debug\net6.0\EmployeeWageComputationNameSpace.dll
+C:\Users\lenovo\source\repos\EmployeeWageComputationNameSpace\EmployeeWageComputationNameSpace\obj\Debug\net6.0\refint\EmployeeWageComputationNameSpace.dll
+C:\Users\lenovo\source\repos\EmployeeWageComputationNameSpace\EmployeeWageComputationNameSpace\obj\Debug\net6.0\EmployeeWageComputationNameSpace.pdb
+C:\Users\lenovo\source\repos\EmployeeWageComputationNameSpace\EmployeeWageComputationNameSpace\obj\Debug\net6.0\EmployeeWageComputationNameSpace.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\EmployeeWageComputationNameSpace\EmployeeWageComputationNameSpace\obj\Debug\net6.0\ref\EmployeeWageComputationNameSpace.dll
